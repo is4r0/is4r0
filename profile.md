@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio,<br>🤝 I’m looking for help with Back End Programming,<br>🌱 I’m currently learning JavaScript,<br>💬 Ask me about and Web Development Questions,<br>⚡ Fun fact, I can create website for you!
+🔭 I’m currently working on my Portfolio,<br>🤝 I’m looking for help with Back End Programming,<br>🌱 I’m currently learning JavaScript,<br>💬 Ask me about and Web Development Questions,<br>⚡ Fun fact, I can create websites for you!
 
 
 ## 🌐 Socials:
