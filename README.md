@@ -56,14 +56,6 @@
 
 ---
 
-##  Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg" width="100%" />
-</div>
-
----
-
 <div align="center">
   <h3> GitHub Streak</h3>
   <a href="https://git.io/streak-stats">
