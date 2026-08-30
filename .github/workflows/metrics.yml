@@ -21,7 +21,7 @@ jobs:
         with:
           filename: isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: dhruvin-sarkar
+          user: is4r0
           base: ""
           config_timezone: Asia/Dubai
           plugin_isocalendar: yes
