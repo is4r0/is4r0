@@ -1,11 +1,81 @@
-# 💫 About Me:
-🔭 I’m currently working on my Portfolio,<br>🤝 I’m looking for help with Back End Programming,<br>🌱 I’m currently mastering React,<br>💬 Ask me about and Web Development Questions,<br>⚡ Fun fact, I can create websites for you!
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isar_samnani) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@is4r0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qaz123wsx12309@gmail.com)
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=help+me+with+my+portfolio;i+can+create+websites;any+questions%3F;my+name+is+isar+samnani;someone+give+me+money+;i'm+open+for+jobs+yk;i+can+code;i'm+only+15+calm+down" alt="Typing SVG" /></a>
+</div>
 
 ---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## Let's Play Pokémon Together
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="20%" align="right" valign="middle">
+        <table>
+          <tr>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a></td>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a></td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <img src="https://toy.cloudreve.org/image" width="300" alt="Pokemon Game"/>
+      </td>
+      <td width="40%" align="left" valign="middle">
+        <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="35"/></a>
+        <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="35"/></a>
+        <br><br>
+        <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a>
+        <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65"/></a>
+        <br><br>
+        <em>Click buttons • Refresh to see updates</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+##  Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <h3> GitHub Streak</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=is4r0&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" width="95%" />
+  </a>
+</div>
+
+---
+<!--
+##  LeetCode Stats
+
+<div align="center">
+  <img src="img/Leetcode.png" alt="LeetCode Profile" width="100%" />
+</div>
+-->
