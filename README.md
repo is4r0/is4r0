@@ -5,12 +5,6 @@
 ---
 
 <div align="center">
-    <b>isarsam2409@gmail.com - 470-708-4078</b>
-</div>
-
----
-
-<div align="center">
     <img alt="github-snake" src="img/github-user-contribution.svg" width="100%" />
 </div>
 
