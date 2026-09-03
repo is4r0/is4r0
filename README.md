@@ -5,12 +5,14 @@
 </div>
 
 ---
+<!-- snake that eats the user contributions -->
 
 <div align="center">
     <img alt="github-snake" src="img/github-user-contribution.svg" width="100%" />
 </div>
 
 ---
+<!-- Pokemon game -->
 
 ## Let's Play Pokémon Together
 
@@ -53,6 +55,8 @@
 </div>
 
 ---
+
+<!-- GitHub stats -->
 
 <div align="center">
   <h3> GitHub Streak</h3>
