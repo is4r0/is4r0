@@ -5,7 +5,7 @@
 </div>
 
 ---
-<!-- snake that eats the user contributions -->
+<!-- snake that eats the user contributions, repeats-->
 
 <div align="center">
     <img alt="github-snake" src="img/github-user-contribution.svg" width="100%" />
