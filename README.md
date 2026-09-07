@@ -73,6 +73,6 @@
 ##  LeetCode Stats 
 (coming soon)
 <div align="center">
-  <img src="img/Leetcode.png" alt="LeetCode Profile" width="100%" />
+  <img src="img/Leetcode.png" alt="LeetCode Profile Stats" width="100%" />
 </div>
 -->
