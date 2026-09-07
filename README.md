@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 <!-- snake that eats the user contributions, repeats-->
 
 <div align="center">
@@ -12,6 +13,7 @@
 </div>
 
 ---
+
 <!-- Pokemon game -->
 
 ## Let's Play Pokémon Together
@@ -66,9 +68,10 @@
 </div>
 
 ---
-<!--
-##  LeetCode Stats
 
+<!--
+##  LeetCode Stats 
+(coming soon)
 <div align="center">
   <img src="img/Leetcode.png" alt="LeetCode Profile" width="100%" />
 </div>
