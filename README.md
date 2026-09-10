@@ -71,7 +71,7 @@
 
 <!--
 ##  LeetCode Stats 
-(coming soon)
+(coming soon) i should change this
 <div align="center">
   <img src="img/Leetcode.png" alt="LeetCode Profile Stats" width="100%" />
 </div>
