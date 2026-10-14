@@ -28,7 +28,7 @@
             <td><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/is4r0"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a></td>
             <td></td>
           </tr>
-          <tr>
+          <tr> 
             <td><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/is4r0"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a></td>
             <td></td>
             <td><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/is4r0"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a></td>
