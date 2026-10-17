@@ -1,7 +1,7 @@
 <!-- moving text and repeating sentences-->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=help+me+with+my+portfolio;i+can+create+websites;any+questions%3F;my+name+is+isar+samnani;i'm+open+for+jobs+yk;i+can+code;i'm+only+15+calm+down" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=help+me+with+my+portfolio;i+can+create+websites;any+questions%3F;my+name+is+isar+samnani;i'm+open+for+jobs+yk;i+can+code;" alt="Typing SVG" /></a>
 </div>
 
 ---
